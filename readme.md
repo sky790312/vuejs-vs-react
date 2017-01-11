@@ -1,6 +1,6 @@
 # vuejs vs react
 
-# react
+## react
   - min + gzip : 44kb
   - vitual dom compiler: jsx
   - rerender shouldComponentUpdate, immutable date
@@ -10,7 +10,7 @@
   - lead by fb, full of third-party JavaScript libraries
   - write everything in js, support template
 
-# vue
+## vue
   - min + gzip : 12kb
   - vitual dom compiler : can just do by browser, support jsx, .vue file
   - rerender:  auto, completed handle by yourself
